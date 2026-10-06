@@ -1,0 +1,15 @@
+{
+  "name": "ישראל בידור שורטס",
+  "short_name": "ישראל שורטס",
+  "lang": "he",
+  "dir": "rtl",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FCF23A",
+  "theme_color": "#FFFFFF",
+  "icons": [
+    {"src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
